@@ -18,8 +18,6 @@ app = Flask(__name__)
 # In-memory storage for users
 users = {}
 
-#"user_id":"651d4eb8-448f-41d5-aa36-c6de6a2af7aa","wallet_id":"ewallet_9028f13903fc52f595045e87a3ee1178"
-
 # Rapyd API credentials from .env
 RAPYD_ACCESS_KEY = os.getenv("RAPYD_ACCESS_KEY")
 RAPYD_SECRET_KEY = os.getenv("RAPYD_SECRET_KEY")
