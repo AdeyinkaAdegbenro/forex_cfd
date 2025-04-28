@@ -1,0 +1,33 @@
+{
+    "wallet_id": "wallet_id",
+    "beneficiary": {
+        "payment_type": "regular",
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "address": "1 Main Street",
+        "city": "Anycity",
+        "country": "SG",
+        "account_number": "BG96611020345678",
+        "bic_swift": "ABCDSGGG",
+        "currency": "SGD",
+        "category": "bank",
+        "entity_type": "individual"
+    },
+    "beneficiary_entity_type": "individual",
+    "payout_amount": 200,
+    "payout_currency": "SGD",
+    "payout_method_type": "sg_general_bank",
+    "sender": {
+        "country": "SG",
+        "city": "Anycity",
+        "address": "123 First Street",
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "state": "AnyState",
+        "date_of_birth": "22/02/1980"
+    },
+    "sender_country": "SG",
+    "sender_currency": "SGD",
+    "sender_entity_type": "individual",
+    "description": "Payout - Bank Transfer: From Rapyd trader wallet"
+}

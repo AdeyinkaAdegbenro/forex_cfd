@@ -1,0 +1,7 @@
+{
+    "wallet_id": "<wallet_id>",
+    "amount": "1000",
+    "currency": "SGD",
+    "country": "SG",
+    "fund_trader_wallet": "true",
+}
